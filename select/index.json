@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Witchy",
+  "base_artist": "ケイトラナダ",
+  "createdAt": "2026-02-14T05:27:39.693483Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Were Witchy Witchy White Women",
+      "artist": "Electric Six",
+      "has_synced": false,
+      "path": "select/01_We_Were_Witchy_Witchy_White_Women_Electric_Six.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Were Witchy White Women",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/02_We_Were_Witchy_White_Women_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Witchy Woman",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/03_Witchy_Woman_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Something Witchy",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/04_Something_Witchy_Annihilator.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Witchy Woman (2013 Remaster)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/05_Witchy_Woman_(2013_Remaster)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Witchy Woman",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/06_Witchy_Woman_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Witchy Woman",
+      "artist": "Eagles",
+      "has_synced": false,
+      "path": "select/07_Witchy_Woman_Eagles.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Witchy Woman",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/08_Witchy_Woman_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Witchy Woman",
+      "artist": "The Eagles",
+      "has_synced": false,
+      "path": "select/09_Witchy_Woman_The_Eagles.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Witchy (feat. Childish Gambino)",
+      "artist": "KAYTRANADA",
+      "has_synced": false,
+      "path": "select/pl_01_Witchy_(feat._Childish_Gambino)_KAYTRANADA.txt"
+    }
+  ]
+}
